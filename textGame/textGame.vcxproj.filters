@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Controller">
+      <UniqueIdentifier>{a82a140d-805f-4e23-85b8-2d80b46a5afb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Model">
+      <UniqueIdentifier>{7f225af0-c4f8-4b45-af82-b59b1ca26951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\View">
+      <UniqueIdentifier>{f64bf546-63ce-4c04-bec9-f4fc58c18aac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DTO">
+      <UniqueIdentifier>{d22416ad-278b-428a-b3ec-3e220dd660e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Common">
+      <UniqueIdentifier>{bd10928d-f688-419c-a06e-91a3f288737d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame">
+      <UniqueIdentifier>{91f5cab3-7669-4639-8bdf-ae239dfc3a11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame\FireBall">
+      <UniqueIdentifier>{fbd944df-c704-432a-b52c-b03201da515d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame\MagicMissile">
+      <UniqueIdentifier>{da657393-3292-41a2-97f2-766848b3d526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame\BlackHoll">
+      <UniqueIdentifier>{b9172fc5-dad2-441e-bfff-5097b0e5ad83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame\IceLance">
+      <UniqueIdentifier>{5013e84f-6734-4010-82c1-97cc160e4689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Minigame\WitchBolt">
+      <UniqueIdentifier>{875c46ef-843d-402f-bbe5-64172362dc6e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="textGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameController.cpp">
+      <Filter>소스 파일\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="gameView.cpp">
+      <Filter>소스 파일\View</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic.cpp">
+      <Filter>소스 파일\View</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>소스 파일\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="textModel.cpp">
+      <Filter>소스 파일\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>소스 파일\Minigame\FireBall</Filter>
+    </ClCompile>
+    <ClCompile Include="DoubleBuffering.cpp">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClCompile>
+    <ClCompile Include="Fps.cpp">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniView.cpp">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicMissile.cpp">
+      <Filter>소스 파일\Minigame\MagicMissile</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackHoll.cpp">
+      <Filter>소스 파일\Minigame\BlackHoll</Filter>
+    </ClCompile>
+    <ClCompile Include="IceLance.cpp">
+      <Filter>소스 파일\Minigame\IceLance</Filter>
+    </ClCompile>
+    <ClCompile Include="WitchBolt.cpp">
+      <Filter>소스 파일\Minigame\WitchBolt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="character.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleResult.h">
+      <Filter>소스 파일\DTO</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>소스 파일\DTO</Filter>
+    </ClInclude>
+    <ClInclude Include="inventory.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Status.h">
+      <Filter>소스 파일\DTO</Filter>
+    </ClInclude>
+    <ClInclude Include="graphic.h">
+      <Filter>소스 파일\View</Filter>
+    </ClInclude>
+    <ClInclude Include="gameView.h">
+      <Filter>소스 파일\View</Filter>
+    </ClInclude>
+    <ClInclude Include="textModel.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="gameController.h">
+      <Filter>소스 파일\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="characterClass.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="IStatusEvent.h">
+      <Filter>소스 파일\DTO</Filter>
+    </ClInclude>
+    <ClInclude Include="UIConfig.h">
+      <Filter>소스 파일\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Ground.h">
+      <Filter>소스 파일\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="GroundType.h">
+      <Filter>소스 파일\DTO</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleBuffereing.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="Fps.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="Mingame.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniConfig.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniView.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>소스 파일\Minigame\FireBall</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicMissile.h">
+      <Filter>소스 파일\Minigame\MagicMissile</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackHoll.h">
+      <Filter>소스 파일\Minigame\BlackHoll</Filter>
+    </ClInclude>
+    <ClInclude Include="IceLance.h">
+      <Filter>소스 파일\Minigame\IceLance</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyType.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGameStruct.h">
+      <Filter>소스 파일\Minigame</Filter>
+    </ClInclude>
+    <ClInclude Include="stageMaker.h">
+      <Filter>소스 파일\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="WitchBolt.h">
+      <Filter>소스 파일\Minigame\WitchBolt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

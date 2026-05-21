@@ -1,0 +1,343 @@
+﻿  BlackHoll.cpp
+C:\workspace\private\textGame\textGame\BlackHoll.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\BlackHoll.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'BlackHoll.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BlackHoll.cpp(15,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DoubleBuffering.cpp
+C:\workspace\private\textGame\textGame\DoubleBuffering.cpp(12,58): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FireBall.cpp
+C:\workspace\private\textGame\textGame\FireBall.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\FireBall.cpp(17,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\FireBall.cpp(178,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\FireBall.cpp(178,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Fps.cpp
+  gameView.cpp
+C:\workspace\private\textGame\textGame\gameView.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\gameView.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\character.h(11,29): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BattleResult.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(54,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(55,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(67,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(68,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(73,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(74,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(75,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(76,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(77,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(78,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(83,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(84,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'gameView.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\gameView.cpp(34,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(62,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(83,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(155,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(164,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(172,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(176,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(178,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(180,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(195,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(214,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(216,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(217,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(226,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(227,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(228,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(229,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(230,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(240,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(241,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(248,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(251,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(259,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(261,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(284,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(285,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(287,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(289,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(290,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(291,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(292,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(305,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(309,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(310,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(311,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(318,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(321,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(322,3): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(468,46): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(476,11): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(477,2): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(480,11): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(483,5): error C2146: 구문 오류: ';'이(가) 'moveCursor' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(484,11): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(485,5): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(488,11): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(491,5): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(530,35): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(602,11): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(603,2): error C2143: 구문 오류: ';'이(가) 'for' 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(613,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\gameView.cpp(623,98): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(624,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameView.cpp(677,30): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  graphic.cpp
+  gameController.cpp
+C:\workspace\private\textGame\textGame\gameController.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\gameView.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\character.h(11,29): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BattleResult.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(54,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(55,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(67,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(68,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(73,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(74,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(75,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(76,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(77,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(78,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(83,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(84,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\gameController.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(46,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(48,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(52,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(53,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'gameController.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\gameController.cpp(166,17): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(167,3): error C2146: 구문 오류: ')'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(167,3): error C2146: 구문 오류: ';'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(195,17): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(196,3): error C2146: 구문 오류: ')'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(196,3): error C2146: 구문 오류: ';'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(252,17): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(253,3): error C2146: 구문 오류: ')'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(253,3): error C2146: 구문 오류: ';'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(262,17): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(263,3): error C2146: 구문 오류: ')'이(가) 'printWString' 식별자 앞에 없습니다.
+C:\workspace\private\textGame\textGame\gameController.cpp(263,3): error C2146: 구문 오류: ';'이(가) 'printWString' 식별자 앞에 없습니다.
+  IceLance.cpp
+C:\workspace\private\textGame\textGame\IceLance.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\IceLance.cpp(39,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\IceLance.cpp(118,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MagicMissile.cpp
+C:\workspace\private\textGame\textGame\MagicMissile.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\MagicMissile.cpp(44,7): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  MiniView.cpp
+  textGame.cpp
+C:\workspace\private\textGame\textGame\textGame.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\gameController.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(46,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(48,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(52,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\stageMaker.h(53,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BattleResult.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textGame.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\textGame.cpp(23,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  character.cpp
+C:\workspace\private\textGame\textGame\character.h(11,29): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BattleResult.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(54,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(55,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(67,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(68,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(73,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(74,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(75,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(76,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(77,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(78,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(83,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(84,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'character.cpp'을(를) 컴파일하는 중)
+  
+  textModel.cpp
+C:\workspace\private\textGame\textGame\textModel.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\character.h(11,29): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BattleResult.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(54,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(55,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(67,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(68,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(73,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(74,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(75,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(76,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(77,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(78,2): error C2143: 구문 오류: ';'이(가) 'case' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(83,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\item.h(84,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\gameView.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\Mingame.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\BlackHoll.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+C:\workspace\private\textGame\textGame\inventory.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'textModel.cpp'을(를) 컴파일하는 중)
+  
+  WitchBolt.cpp
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(13,18): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(53,13): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(57,28): warning C4244: '인수': 'float'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(143,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\workspace\private\textGame\textGame\WitchBolt.cpp(143,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
